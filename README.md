@@ -3,8 +3,6 @@
 ### How it works
 
 - Перед началом работы запустить Zookeeper и Kafka на вашем ПК
-- Создать БД в MySQL
-- В application.properties указать свой url, username, password
 - Запустить ExampleApplication
 - После запуска приложения в консоль будут выведены инструкции :
 	- " - To read data from DB and write to topic, enter 1"
